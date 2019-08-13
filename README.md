@@ -1,2 +1,2 @@
 # Digital-Analytics-team
-data from viz of skills in the team
+data to build viz of skills in the team
