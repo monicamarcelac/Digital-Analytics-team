@@ -4,16 +4,40 @@
   {
    "name": "tools",
    "children": [
-      {"name": "AWS", "value": 3938},
-      {"name": "Power BI", "value": 3812},
-      {"name": "CGP", "value": 6714},
-      {"name": "Alteryx", "value": 4050},
-      {"name": "Google Analytics", "value":5345},
-      {"name": "Data Studio", "value":3450},
-      {"name": "Hotjar", "value":3100},
+    {
+     "name": "Measuring",
+     "children": [
       {"name": "GTM", "value":5350},
-      {"name": "Bluekai", "value":500}
+      {"name": "Google Analytics", "value":5345},
+      {"name": "DTM (ATM)", "value": 3938},
+      {"name": "Infinity", "value": 500}
      ]
+    },
+    {
+      "name": "Viz",
+      "children": [
+      {"name": "Power BI", "value": 5500},
+      {"name": "Data Studio", "value":3000}
+      ]
+    },
+    {
+        "name": "Cloud-Analytics",
+        "children": [
+        {"name": "AWS", "value": 3938},
+        {"name": "GCP", "value": 6714},
+        {"name": "Alteryx", "value": 4050}
+        ]
+    },
+    {
+        "name": "UX-ABT-DMP-Others",
+        "children": [
+        {"name": "Responsys", "value":850},
+        {"name": "Hotjar", "value":3100},
+        {"name": "Bluekai", "value":1500},
+        {"name": "Maxymiser", "value":1000}
+     ]
+  }
+]
   },
   {
    "name": "data",
@@ -28,11 +52,21 @@
   {
     "name": "capabilities",
     "children": [
-     {"name": "Bussines Understanting", "value": 17010},
-     {"name": "Bussines Intelligence", "value": 5842},
-     {"name": "Bussines Analytics", "value": 1041},
-     {"name": "Ping-Pong Master", "value": 5176},
-     {"name": "FIFA 18 Champions", "value": 449}
+        {
+            "name": "Bussines",
+            "children": [
+            {"name": "Understanting", "value": 4510},
+            {"name": "Intelligence", "value": 5842},
+            {"name": "Analytics", "value": 5041}
+            ]
+        },
+        {
+            "name": "Fun",
+            "children": [
+            {"name": "Ping-Pong Master", "value": 4176},
+            {"name": "FIFA 18 Champions", "value": 2449}
+            ]
+        }
     ]
    },
    {
