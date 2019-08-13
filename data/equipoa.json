@@ -33,26 +33,10 @@
         "children": [
         {"name": "Hotjar", "value":3100},
         {"name": "Bluekai", "value":1500},
-        {"name": "Maxymiser", "value":1000},
-        {"name": "Others",
-            "children": [
-                {"name": "SQL", "value":1850},
-                {"name": "R", "value":1850},
-                {"name": "Python", "value":1850},
-                {"name": "C#", "value":850},
-                {"name": "JavaScript", "value":1850},
-                {"name": "C++", "value":850},
-                {"name": "HTML", "value":1850},
-                {"name": "DAX", "value":1850},
-                {"name": "PHP", "value":850},
-                {"name": ".net", "value":850},
-                {"name": "MQL4", "value":750},
-                {"name": "Ruby", "value":750}
+        {"name": "Maxymiser", "value":1000}        
             ]
         }
     ]
-}
-   ]
 },
 {
    "name": "data",
