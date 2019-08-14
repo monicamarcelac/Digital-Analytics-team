@@ -14,7 +14,7 @@
      ]
     },
     {
-      "name": "Viz",
+      "name": "Vis",
       "children": [
       {"name": "Power BI", "value": 5500},
       {"name": "Data Studio", "value":3000}
@@ -58,11 +58,11 @@
 {
    "name": "Data",
    "children": [
-    {"name": "Logs", "value": 17010},
-    {"name": "Customers", "value": 5842},
-    {"name": "Financial", "value": 1041},
-    {"name": "Digital", "value": 5176},
-    {"name": "Cloud Data", "value": 449}
+    {"name": "Logs", "value": 3010},
+    {"name": "Customers", "value": 3842},
+    {"name": "Financial", "value": 4041},
+    {"name": "Digital", "value": 3176},
+    {"name": "Cloud Data", "value": 1449}
    ]
   },
   {
@@ -81,32 +81,31 @@
             "children": [
                 {"name": "Sports",
                     "children": [
-                        {"name": "Ping-Pong Master", "value": 4176},
-                        {"name": "Soccer Legend", "value": 5176},
-                        {"name": "Swimming", "value": 3176},
-                        {"name": "Basketball", "value": 2176}
+                        {"name": "Ping-Pong Master", "value": 1176},
+                        {"name": "Soccer Legend", "value": 2176},
+                        {"name": "Swimming", "value": 1176},
+                        {"name": "Basketball", "value": 976}
                     ]
                 },
                 {"name": "Video Games",
                     "children": [
-                        {"name": "FIFA Champions", "value": 3449},
-                        {"name": "Halo", "value": 2449},
-                        {"name": "Crash", "value": 2449},
-                        {"name": "Age of Empires", "value": 2449}
+                        {"name": "FIFA Champions", "value": 2449},
+                        {"name": "Halo", "value": 1449},
+                        {"name": "Crash", "value": 949},
+                        {"name": "Age of Empires", "value": 1449}
                     ]
                 },
                 {"name": "Music",
                     "children": [
-                        {"name": "Sing", "value": 2449},
+                        {"name": "Sing", "value": 1049},
                         {"name": "Piano", "value": 1000},
                         {"name": "Guitar", "value": 800}
                     ]
                 },
                 {"name": "Others",
                     "children": [
-                        {"name": "Drink", "value": 2449},
-                        {"name": "Eat", "value": 2000},
-                        {"name": "Sleep", "value": 2000}
+                        {"name": "Drink", "value": 1049},
+                        {"name": "Eat", "value": 1000}
                     ]
                 }
             ]
@@ -117,9 +116,9 @@
             "name": "team",
             "children": [
             {"name": "Team Work", "value": 17010},
-            {"name": "Leadership", "value": 5842},
-            {"name": "Share Knowledge", "value": 1041},
-            {"name": "Dynamic", "value": 5176}
+            {"name": "Leadership", "value": 3842},
+            {"name": "Share Knowledge", "value": 5041},
+            {"name": "Dynamic", "value": 2176}
     ]
    }
  ]
