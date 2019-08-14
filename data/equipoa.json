@@ -129,7 +129,8 @@
                 {"name": "Others",
                     "children": [
                         {"name": "Drink", "value": 1049},
-                        {"name": "Eat", "value": 1000}
+                        {"name": "Eat", "value": 1000},
+                        {"name": "Memes", "value": 1000}
                     ]
                 }
             ]
