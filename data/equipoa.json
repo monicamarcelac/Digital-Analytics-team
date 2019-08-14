@@ -9,7 +9,7 @@
      "children": [
       {"name": "GTM", "value":5350},
       {"name": "Google Analytics", "value":5345},
-      {"name": "DTM (ATM)", "value": 3938},
+      {"name": "DTM (ATM)", "value": 1938},
       {"name": "Infinity", "value": 1500}
      ]
     },
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "name": "UX-ABT-DMP-Others",
+        "name": "DMP-et al.",
         "children": [
         {"name": "Hotjar", "value":2100},
         {"name": "Bluekai", "value":2500},
@@ -97,9 +97,9 @@
                 },
                 {"name": "Music",
                     "children": [
-                        {"name": "Sing", "value": 1049},
-                        {"name": "Piano", "value": 1000},
-                        {"name": "Guitar", "value": 800}
+                        {"name": "Sing", "value": 849},
+                        {"name": "Piano", "value": 800},
+                        {"name": "Guitar", "value": 900}
                     ]
                 },
                 {"name": "Others",
