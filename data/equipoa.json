@@ -47,10 +47,10 @@
                 {"name": "JavaScript", "value":1850},
                 {"name": "HTML", "value":1850},
                 {"name": "DAX", "value":1850},
-                {"name": "PHP", "value":850},
-                {"name": ".net", "value":850},
-                {"name": "MQL4", "value":750},
-                {"name": "Ruby", "value":750},
+                {"name": "PHP", "value":1050},
+                {"name": ".net", "value":1050},
+                {"name": "MQL4", "value":950},
+                {"name": "Ruby", "value":1050},
                 {
                     "name": "C",
                     "children": [
