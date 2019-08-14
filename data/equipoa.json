@@ -29,7 +29,7 @@
         ]
     },
     {
-        "name": "DMP-et al.",
+        "name": "DMP - et al.",
         "children": [
         {"name": "Hotjar", "value":2100},
         {"name": "Bluekai", "value":2500},
@@ -54,8 +54,8 @@
                 {
                     "name": "C",
                     "children": [
-                        {"name": "C#", "value":450},
-                        {"name": "C++", "value":450}
+                        {"name": "C#", "value":850},
+                        {"name": "C++", "value":850}
                     ]
                 }
                 ]
@@ -82,7 +82,9 @@
             {"name": "Intelligence", "value": 5842},
             {"name": "Analytics", "value": 5041}
             ]
-        },
+        }
+    ]
+},
         {
             "name": "Fun",
             "children": [
@@ -96,9 +98,22 @@
                 },
                 {"name": "Video Games",
                     "children": [
-                        {"name": "FIFA Champions", "value": 2449},
+                        {"name": "FIFA Champions",
+                            "children": [
+                                {"name": "2017", "value": 1076},
+                                {"name": "2018", "value": 1076},
+                                {"name": "2019", "value": 1076},
+                                {"name": "Future", "value": 1076}
+                            ]
+                                                 
+                        },
                         {"name": "Halo", "value": 1449},
-                        {"name": "Crash", "value": 949},
+                        {"name": "Crash", 
+                            "children": [
+                                {"name": "bandicoot", "value": 976},
+                                {"name": "team racing", "value": 976}
+                            ]
+                        },
                         {"name": "Age of Empires", "value": 1449}
                     ]
                 },
@@ -116,9 +131,7 @@
                     ]
                 }
             ]
-        }
-    ]
-},
+        },
         {
             "name": "Team",
             "children": [
