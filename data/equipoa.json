@@ -29,17 +29,34 @@
         ]
     },
     {
-        "name": "UX-ABT-DMP",
+        "name": "UX-ABT-DMP-Others",
         "children": [
         {"name": "Hotjar", "value":3100},
         {"name": "Bluekai", "value":1500},
-        {"name": "Maxymiser", "value":1000}        
+        {"name": "Maxymiser", "value":1000},
+        {
+            "name":"Others",
+            "children": [
+                {"name": "SQL", "value":1850},
+                {"name": "R", "value":1850},
+                {"name": "Python", "value":1850},
+                {"name": "C#", "value":850},
+                {"name": "JavaScript", "value":1850},
+                {"name": "C++", "value":850},
+                {"name": "HTML", "value":1850},
+                {"name": "DAX", "value":1850},
+                {"name": "PHP", "value":850},
+                {"name": ".net", "value":850},
+                {"name": "MQL4", "value":750},
+                {"name": "Ruby", "value":750}
+            ]
+        }        
             ]
         }
     ]
 },
 {
-   "name": "data",
+   "name": "Data",
    "children": [
     {"name": "Logs", "value": 17010},
     {"name": "Customers", "value": 5842},
@@ -49,7 +66,7 @@
    ]
   },
   {
-    "name": "capabilities",
+    "name": "Capabilities",
     "children": [
         {
             "name": "Bussines",
@@ -65,14 +82,14 @@
                 {"name": "Sports",
                     "children": [
                         {"name": "Ping-Pong Master", "value": 4176},
-                        {"name": "Soccer - Iba a ser profesional", "value": 5176},
+                        {"name": "Soccer Legend", "value": 5176},
                         {"name": "Swimming", "value": 3176},
                         {"name": "Basketball", "value": 2176}
                     ]
                 },
                 {"name": "Video Games",
                     "children": [
-                        {"name": "FIFA 18 Champions", "value": 3449},
+                        {"name": "FIFA Champions", "value": 3449},
                         {"name": "Halo", "value": 2449},
                         {"name": "Crash", "value": 2449},
                         {"name": "Age of Empires", "value": 2449}
@@ -81,8 +98,8 @@
                 {"name": "Music",
                     "children": [
                         {"name": "Sing", "value": 2449},
-                        {"name": "Piano", "value": 2000},
-                        {"name": "Guitar", "value": 2000}
+                        {"name": "Piano", "value": 1000},
+                        {"name": "Guitar", "value": 800}
                     ]
                 },
                 {"name": "Others",
