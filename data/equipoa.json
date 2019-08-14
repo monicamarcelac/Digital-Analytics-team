@@ -50,6 +50,8 @@
                 {"name": "PHP", "value":1050},
                 {"name": ".net", "value":1050},
                 {"name": "MQL4", "value":950},
+                {"name": "D3", "value":950},
+                {"name": "Vega-Lite", "value":950},
                 {"name": "Ruby", "value":1050},
                 {
                     "name": "C",
