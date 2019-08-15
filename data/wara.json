@@ -1,0 +1,140 @@
+{
+ "name": "wara",
+ "children": [
+  {
+   "name": "Tools",
+   "children": [
+    {
+     "name": "Measuring",
+     "children": [
+      {"name": "GTM", "value":9350},
+      {"name": "Google Analytics", "value":9345},
+      {"name": "DTM (ATM)", "value": 5938},
+      {"name": "Infinity", "value": 3500}
+     ]
+    },
+    {
+      "name": "Vis",
+      "children": [
+      
+      {"name": "Data Studio", "value":5000}
+      ]
+    },
+    {
+        "name": "Cloud-Analytics",
+        "children": [
+        
+        {"name": "GCP", "value": 3714}
+        
+        ]
+    },
+    {
+        "name": "DMP - et al.",
+        "children": [
+        {"name": "Hotjar", "value":4100},
+        {"name": "Bluekai", "value":4500},
+        {"name": "Maxymiser", "value":4000}
+        ]
+    }
+]
+  },
+{
+    "name": "Lenguages",
+            "children": [
+                {"name": "SQL", "value":1850},
+                {"name": "JavaScript", "value":3850},
+                {"name": "HTML", "value":2850},
+                {"name": "CSS", "value":2850},
+                {
+                    "name": "C",
+                    "children": [
+                        {"name": "C#", "value":850},
+                        {"name": "C++", "value":850}
+                    ]
+                }
+                ]
+
+         
+},
+{
+   "name": "Data",
+   "children": [
+    {"name": "Logs", "value": 3010},
+    {"name": "Customers", "value": 3842},
+    {"name": "Marketing", "value": 4041},
+    {"name": "Digital", "value": 3176},
+    {"name": "Cloud Data", "value": 1449}
+   ]
+  },
+  {
+    "name": "Capabilities",
+    "children": [
+        {
+            "name": "Bussines",
+            "children": [
+            {"name": "Understanting", "value": 4510},
+            {"name": "Intelligence", "value": 5842},
+            {"name": "Analytics", "value": 5041}
+            ]
+        }
+    ]
+},
+        {
+            "name": "Fun",
+            "children": [
+                {"name": "Sports",
+                    "children": [
+                        {"name": "Ping-Pong Master", "value": 1176},
+                        {"name": "Soccer Legend", "value": 2176},
+                        {"name": "Beisbol", "value": 1176},
+                        {"name": "Basketball", "value": 976}
+                    ]
+                },
+                {"name": "Video Games",
+                    "children": [
+                        {"name": "FIFA Champions",
+                            "children": [
+                                {"name": "2017", "value": 1076},
+                                {"name": "2018", "value": 1076},
+                                {"name": "2019", "value": 1076},
+                                {"name": "Future", "value": 1076}
+                            ]
+                                                 
+                        },
+                        {"name": "Halo", "value": 1449},
+                        {"name": "Crash", 
+                            "children": [
+                                {"name": "bandicoot", "value": 976},
+                                {"name": "team racing", "value": 976}
+                            ]
+                        },
+                        {"name": "Age of Empires", "value": 1449}
+                    ]
+                },
+                {"name": "Music",
+                    "children": [
+                        {"name": "Sing", "value": 849},
+                        {"name": "Piano", "value": 800},
+                        {"name": "Guitar", "value": 900}
+                    ]
+                },
+                {"name": "Others",
+                    "children": [
+                        {"name": "Drink", "value": 1049},
+                        {"name": "Eat", "value": 1000},
+                        {"name": "Chile", "value": 1000}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Team",
+            "children": [
+            {"name": "Team Work", "value": 17010},
+            {"name": "Leadership", "value": 3842},
+            {"name": "Share Knowledge", "value": 6041},
+            {"name": "Dynamic", "value": 2176}
+    ]
+   }
+ ]
+}
