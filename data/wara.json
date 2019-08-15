@@ -9,6 +9,7 @@
      "children": [
       {"name": "GTM", "value":9350},
       {"name": "Google Analytics", "value":9345},
+      {"name": "Adobe Analytics", "value":9345},
       {"name": "DTM (ATM)", "value": 5938},
       {"name": "Infinity", "value": 3500}
      ]
@@ -16,7 +17,8 @@
     {
       "name": "Vis",
       "children": [
-      
+        {"name": "Power BI", "value": 1500},
+        {"name": "Tableau", "value": 800},
       {"name": "Data Studio", "value":5000}
       ]
     },
@@ -33,7 +35,9 @@
         "children": [
         {"name": "Hotjar", "value":4100},
         {"name": "Bluekai", "value":4500},
-        {"name": "Maxymiser", "value":4000}
+        {"name": "Optimizely", "value": 4500},
+        {"name": "Optimize", "value": 4500},
+        {"name": "Maxymiser", "value":7000}
         ]
     }
 ]
@@ -42,16 +46,10 @@
     "name": "Lenguages",
             "children": [
                 {"name": "SQL", "value":1850},
-                {"name": "JavaScript", "value":3850},
+                {"name": "JavaScript", "value":4850},
                 {"name": "HTML", "value":2850},
-                {"name": "CSS", "value":2850},
-                {
-                    "name": "C",
-                    "children": [
-                        {"name": "C#", "value":850},
-                        {"name": "C++", "value":850}
-                    ]
-                }
+                {"name": "CSS", "value":2850}
+              
                 ]
 
          
@@ -92,23 +90,8 @@
                 },
                 {"name": "Video Games",
                     "children": [
-                        {"name": "FIFA Champions",
-                            "children": [
-                                {"name": "2017", "value": 1076},
-                                {"name": "2018", "value": 1076},
-                                {"name": "2019", "value": 1076},
-                                {"name": "Future", "value": 1076}
-                            ]
-                                                 
-                        },
-                        {"name": "Halo", "value": 1449},
-                        {"name": "Crash", 
-                            "children": [
-                                {"name": "bandicoot", "value": 976},
-                                {"name": "team racing", "value": 976}
-                            ]
-                        },
-                        {"name": "Age of Empires", "value": 1449}
+                        
+                        {"name": "NBA", "value": 1449}
                     ]
                 },
                 {"name": "Music",
@@ -120,7 +103,7 @@
                 },
                 {"name": "Others",
                     "children": [
-                        {"name": "Drink", "value": 1049},
+                        {"name": "Tacos", "value": 1049},
                         {"name": "Eat", "value": 1000},
                         {"name": "Chile", "value": 1000}
                     ]
