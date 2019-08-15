@@ -1,0 +1,123 @@
+{
+ "name": "pierre",
+ "children": [
+  {
+   "name": "Tools",
+   "children": [
+    {
+     "name": "Measuring",
+     "children": [
+
+      {"name": "Google Analytics", "value":3345}
+
+     ]
+    },
+    {
+      "name": "Vis",
+      "children": [
+          {"name": "Power BI", "value": 6500},
+          {"name": "Qlik", "value": 4500},
+          {"name": "Data Studio", "value":2000}
+      ]
+    },
+    {
+        "name": "Cloud-Analytics",
+        "children": [
+
+            {"name": "Alteryx", "value": 3050}
+        
+        ]
+    }
+
+]
+  },
+{
+    "name": "Lenguages",
+            "children": [
+                {"name": "SQL", "value":7850},
+                {"name": "MQL4", "value":2850},
+                {"name": "Python", "value":5850},
+                {"name": "DAX", "value":3850},
+                {"name": "JavaScript", "value":1850}
+
+            ]
+
+         
+},
+{
+   "name": "Data",
+   "children": [
+    {"name": "Logs", "value": 3010},
+    {"name": "Customers", "value": 3842},
+    {"name": "Marketing", "value": 3041},
+    {"name": "Digital", "value": 3176},
+    {"name": "Financial", "value": 3041},
+    {"name": "Cloud Data", "value": 449}
+   ]
+  },
+  {
+    "name": "Capabilities",
+    "children": [
+        {
+            "name": "Bussines",
+            "children": [
+            {"name": "Understanting", "value": 4510},
+            {"name": "Intelligence", "value": 5842},
+            {"name": "Analytics", "value": 5041}
+            ]
+        }
+    ]
+},
+{
+    "name": "Fun",
+    "children": [
+        {"name": "Sports",
+            "children": [
+                {"name": "Ping-Pong Master", "value": 1176},
+                {"name": "Soccer Legend", "value": 2176},
+                {"name": "Swimming", "value": 1176},
+                {"name": "Basketball", "value": 976}
+            ]
+        },
+        {"name": "Video Games",
+            "children": [
+                {"name": "FIFA Champions",
+                    "children": [
+                        {"name": "2017", "value": 1076},
+                        {"name": "2018", "value": 1076},
+                        {"name": "2019", "value": 1076},
+                        {"name": "Future", "value": 1076}
+                    ]
+                                         
+                },
+                {"name": "WOW", "value": 1449},
+
+                {"name": "Age of Empires", "value": 1449}
+            ]
+        },
+        {"name": "Music",
+            "children": [
+
+                {"name": "Guitar", "value": 900}
+            ]
+        },
+        {"name": "Others",
+            "children": [
+                {"name": "Rumbear", "value": 1049},
+                {"name": "Leer", "value": 1000},
+                {"name": "Trading", "value": 1000}
+            ]
+        }
+    ]
+},
+{
+    "name": "Team",
+    "children": [
+    {"name": "Team Work", "value": 17010},
+    {"name": "Leadership", "value": 3842},
+    {"name": "Share Knowledge", "value": 6041},
+    {"name": "Dynamic", "value": 2176}
+]
+}
+]
+}
