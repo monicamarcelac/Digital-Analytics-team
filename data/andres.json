@@ -1,0 +1,110 @@
+{
+ "name": "andres",
+ "children": [
+  {
+   "name": "Tools",
+   "children": [
+    {
+     "name": "Measuring",
+     "children": [
+
+      {"name": "Google Analytics", "value":4345}
+
+     ]
+    },
+    {
+      "name": "Vis",
+      "children": [
+          {"name": "Power BI", "value": 6500},
+          {"name": "Data Studio", "value":4000}
+      ]
+    },
+    {
+        "name": "Cloud-Analytics",
+        "children": [
+            {"name": "AWS", "value": 2538},
+            {"name": "GCP", "value": 8714},
+            {"name": "Azure", "value": 4714},
+            {"name": "Databricks", "value": 2714},
+            {"name": "Alteryx", "value": 1050}
+        
+        ]
+    }
+
+]
+  },
+{
+    "name": "Lenguages",
+            "children": [
+                {"name": "SQL", "value":7850},
+                {"name": "R", "value":2850},
+                {"name": "Python", "value":5850},
+                {"name": "DAX", "value":1850},
+                {"name": "PySpark", "value":1850}
+
+            ]
+
+         
+},
+{
+   "name": "Data",
+   "children": [
+    {"name": "Logs", "value": 3010},
+    {"name": "Customers", "value": 3842},
+    {"name": "Marketing", "value": 3041},
+    {"name": "Digital", "value": 3176},
+    {"name": "Financial", "value": 3041},
+    {"name": "Cloud Data", "value": 449}
+   ]
+  },
+  {
+    "name": "Capabilities",
+    "children": [
+        {
+            "name": "Bussines",
+            "children": [
+            {"name": "Understanting", "value": 4510},
+            {"name": "Intelligence", "value": 5842},
+            {"name": "Analytics", "value": 5041}
+            ]
+        }
+    ]
+},
+        {
+            "name": "Fun",
+            "children": [
+                {"name": "Sports",
+                    "children": [
+                        {"name": "Ping-Pong Master", "value": 1176},
+                        {"name": "Soccer Legend", "value": 2176}
+
+                    ]
+                },
+                {"name": "Video Games",
+                    "children": [
+                      
+                        {"name": "Halo", "value": 1449}
+                       
+                    ]
+                },
+
+                {"name": "Others",
+                    "children": [
+                        {"name": "Drink", "value": 1049},
+                        {"name": "Eat", "value": 4000}
+
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Team",
+            "children": [
+            {"name": "Team Work", "value": 17010},
+            {"name": "Leadership", "value": 3842},
+            {"name": "Share Knowledge", "value": 6041},
+            {"name": "Dynamic", "value": 2176}
+    ]
+   }
+ ]
+}
