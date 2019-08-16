@@ -7,7 +7,7 @@
     {
      "name": "Measuring",
      "children": [
-      {"name": "GTM", "value":5350},
+      {"name": "GTM", "value":8350},
       {"name": "Google Analytics", "value":5345},
       {"name": "DTM (ATM)", "value": 1938}
      ]
