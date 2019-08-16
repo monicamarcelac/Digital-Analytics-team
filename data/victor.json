@@ -39,6 +39,7 @@
                 {"name": "DAX", "value":3050},
                 {"name": ".net", "value":3050},
                 {"name": "DAX", "value":3050},
+                {"name": "R", "value":3050},
                 {
                     "name": "C",
                     "children": [
