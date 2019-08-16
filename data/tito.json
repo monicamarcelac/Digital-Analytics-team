@@ -1,0 +1,116 @@
+{
+ "name": "tito",
+ "children": [
+  {
+   "name": "Tools",
+   "children": [
+    {
+     "name": "Measuring",
+     "children": [
+
+      {"name": "Google Analytics", "value":3345},
+      {"name": "Adobe Analytics", "value":3045}
+
+     ]
+    },
+    {
+      "name": "Vis",
+      "children": [
+      {"name": "Power BI", "value": 1500},
+      {"name": "Data Studio", "value":1000}
+      ]
+    },
+    {
+        "name": "Cloud-Analytics",
+        "children": [
+        {"name": "AWS", "value": 1038},
+        {"name": "GCP", "value": 1038}
+        ]
+    },
+    {
+        "name": "DMP - et al.",
+        "children": [
+        {"name": "Hotjar", "value":1100},
+        {"name": "Bluekai", "value":1000},
+        {"name": "Responsys", "value":1000},
+        {"name": "Maxymiser", "value":1000}
+        ]
+    }
+]
+  },
+{
+    "name": "Lenguages",
+            "children": [
+                {"name": "SQL", "value":2050},
+                {"name": "Python", "value":3050},
+                {"name": "R", "value":3050}
+
+
+                ]
+
+         
+},
+{
+   "name": "Data",
+   "children": [
+    {"name": "Logs", "value": 4010},
+    {"name": "Customers", "value": 3842},
+    {"name": "Financial", "value": 4041},
+    {"name": "Digital", "value": 3176},
+    {"name": "Media", "value": 3176},
+    {"name": "Marketing", "value": 3176},
+    {"name": "Cloud Data", "value": 1449}
+   ]
+  },
+  {
+    "name": "Capabilities",
+    "children": [
+        {
+            "name": "Bussines",
+            "children": [
+            {"name": "Understanting", "value": 4510},
+            {"name": "Intelligence", "value": 5842},
+            {"name": "Analytics", "value": 5041}
+            ]
+        },
+        {"name": "MBA-CDO", "value": 4449},
+        {"name": "Project Management", "value": 4449},
+        {"name": "Statistics", "value": 5449},
+        {"name": "Sales", "value": 5449},
+        {"name": "Teacher", "value": 5449}
+    ]
+},
+        {
+            "name": "Fun",
+            "children": [
+                {"name": "Sports",
+                    "children": [
+                        {"name": "Basketball", "value": 2176},
+                        {"name": "Swimming", "value": 1800},
+                        {"name": "Golf", "value": 2176},
+                        {"name": "Buceo", "value": 2176}
+
+                    ]
+                },
+
+                {"name": "Others",
+                    "children": [
+                        {"name": "Travel", "value": 1049},
+                        {"name": "Eat", "value": 1000},
+                        {"name": "Finca", "value": 1000},
+                        {"name": "Drink", "value": 1600}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Team",
+            "children": [
+            {"name": "Team Work", "value": 17010},
+            {"name": "Leadership", "value": 3842},
+            {"name": "Share Knowledge", "value": 6041},
+            {"name": "Dynamic", "value": 2176}
+    ]
+   }
+ ]
+}
