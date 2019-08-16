@@ -68,6 +68,7 @@
     {"name": "Customers", "value": 3842},
     {"name": "Financial", "value": 4041},
     {"name": "Digital", "value": 3176},
+    {"name": "Marketing", "value": 4176},
     {"name": "Cloud Data", "value": 1449}
    ]
   },
