@@ -1,179 +1,98 @@
 {
-    "name": "dsastre",
+ "name": "dsastre",
+ "children": [
+  {
+   "name": "Tools",
+   "children": [
+    {
+     "name": "Measuring",
+     "children": [
+
+      {"name": "Google Analytics", "value":5345}
+
+     ]
+    },
+    {
+      "name": "Vis",
+      "children": [
+      {"name": "Power BI", "value": 6500},
+      {"name": "Data Studio", "value":1000}
+      ]
+    },
+    {
+        "name": "Cloud-Analytics",
+        "children": [
+        {"name": "Alteryx", "value": 2538}
+        ]
+    }
+]
+  },
+{
+    "name": "Lenguages",
+            "children": [
+                {"name": "SQL", "value":5850},
+                {"name": "Python", "value":2050},
+                {"name": "HTML", "value":1050},
+                {"name": "VB", "value":3050},
+                {"name": "DAX", "value":4050},
+                {"name": "R", "value":2050}
+
+                ]
+
+         
+},
+{
+   "name": "Data",
+   "children": [
+    {"name": "Logs", "value": 3010},
+    {"name": "Customers", "value": 3842},
+    {"name": "Financial", "value": 4041},
+    {"name": "Digital", "value": 3176},
+    {"name": "Media", "value": 4176},
+    {"name": "Cloud Data", "value": 1449}
+   ]
+  },
+  {
+    "name": "Capabilities",
     "children": [
         {
-            "name": "Tools",
+            "name": "Bussines",
             "children": [
-                {
-                    "name": "Measuring",
-                    "children": [
-                        {
-                            "name": "Google Analytics",
-                            "value": 5345
-                        }
-                    ]
-                },
-                {
-                    "name": "Vis",
-                    "children": [
-                        {
-                            "name": "Power BI",
-                            "value": 6500
-                        },
-                        {
-                            "name": "Data Studio",
-                            "value": 1000
-                        }
-                    ]
-                },
-                {
-                    "name": "Cloud-Analytics",
-                    "children": [
-                        {
-                            "name": "Azure",
-                            "value": 1538
-                        },
-                        {
-                            "name": "Alteryx",
-                            "value": 2538
-                        }
-                    ]
-                }
+            {"name": "Understanting", "value": 4510},
+            {"name": "Intelligence", "value": 5842},
+            {"name": "Analytics", "value": 5041}
             ]
-        },
-        {
-            "name": "Lenguages",
-            "children": [
-                {
-                    "name": "SQL",
-                    "value": 5850
-                },
-                {
-                    "name": "R",
-                    "value": 3850
-                },
-                {
-                    "name": "Python",
-                    "value": 3850
-                },
-                {
-                    "name": "VB",
-                    "value": 3850
-                },
-                {
-                    "name": "DAX",
-                    "value": 4050
-                }
-            ]
-        },
-        {
-            "name": "Data",
-            "children": [
-                {
-                    "name": "Logs",
-                    "value": 3010
-                },
-                {
-                    "name": "Customers",
-                    "value": 3842
-                },
-                {
-                    "name": "Financial",
-                    "value": 4041
-                },
-                {
-                    "name": "Digital",
-                    "value": 3176
-                },
-                {
-                    "name": "Media",
-                    "value": 4176
-                },
-                {
-                    "name": "Cloud Data",
-                    "value": 1449
-                }
-            ]
-        },
-        {
-            "name": "Capabilities",
-            "children": [
-                {
-                    "name": "Bussines",
-                    "children": [
-                        {
-                            "name": "Understanting",
-                            "value": 4510
-                        },
-                        {
-                            "name": "Intelligence",
-                            "value": 5842
-                        },
-                        {
-                            "name": "Analytics",
-                            "value": 5041
-                        }
-                    ]
-                }
-            ]
-        },
+        }
+    ]
+},
         {
             "name": "Fun",
             "children": [
-                {
-                    "name": "Sports",
+                {"name": "Sports",
                     "children": [
-                        {
-                            "name": "cycling",
-                            "value": 1176
-                        },
-                        {
-                            "name": "Soccer Legend",
-                            "value": 2176
-                        }
+                        {"name": "Cycling", "value": 1176},
+                        {"name": "Soccer Legend", "value": 2176}
+
                     ]
                 },
-                {
-                    "name": "Video Games",
+                {"name": "Video Games",
                     "children": [
-                        {
-                            "name": "FIFA Champions",
+                        {"name": "FIFA Champions",
                             "children": [
-                                {
-                                    "name": "2017",
-                                    "value": 1076
-                                },
-                                {
-                                    "name": "2018",
-                                    "value": 1076
-                                },
-                                {
-                                    "name": "2019",
-                                    "value": 1076
-                                },
-                                {
-                                    "name": "Future",
-                                    "value": 1076
-                                }
+                                {"name": "2017", "value": 1076},
+                                {"name": "2018", "value": 1076},
+                                {"name": "2019", "value": 1076},
+                                {"name": "Future", "value": 1076}
                             ]
-                        },
-                        {
-                            "name": "Halo",
-                            "value": 1449
                         }
+
                     ]
                 },
-                {
-                    "name": "Others",
+
+                {"name": "Others",
                     "children": [
-                        {
-                            "name": "Travel",
-                            "value": 1049
-                        },
-                        {
-                            "name": "Eat",
-                            "value": 1000
-                        }
+                        {"name": "Travel", "value": 1049},
+                        {"name": "Eat", "value": 1000}
                     ]
                 }
             ]
@@ -181,23 +100,11 @@
         {
             "name": "Team",
             "children": [
-                {
-                    "name": "Team Work",
-                    "value": 17010
-                },
-                {
-                    "name": "Leadership",
-                    "value": 3842
-                },
-                {
-                    "name": "Share Knowledge",
-                    "value": 6041
-                },
-                {
-                    "name": "Dynamic",
-                    "value": 2176
-                }
-            ]
-        }
+            {"name": "Team Work", "value": 17010},
+            {"name": "Leadership", "value": 3842},
+            {"name": "Share Knowledge", "value": 6041},
+            {"name": "Dynamic", "value": 2176}
     ]
+   }
+ ]
 }
